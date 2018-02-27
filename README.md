@@ -11,7 +11,7 @@
 ## 執行畫面
 
 請先加入好友
-![alt tag](https://imgur.com/K2JXcMs)
+![alt tag](https://imgur.com/YJsx3M4)
 我的 QRCODE
 
 ![alt tag](http://i.imgur.com/Kkpzt4p.jpg)
