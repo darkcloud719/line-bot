@@ -1,7 +1,7 @@
-# line-bot-Tutorial
+# line-bot
 
  教你建立自己的 line-bot 使用 python flask 📝
-
+ 
  line-bot-tutorial use python flask
 
 * [Youtube Demo Tutorial V1](https://youtu.be/EToFs-ysXKw)
@@ -11,7 +11,7 @@
 ## 執行畫面
 
 請先加入好友
-
+https://imgur.com/K2JXcMs
 我的 QRCODE
 
 ![alt tag](http://i.imgur.com/Kkpzt4p.jpg)
