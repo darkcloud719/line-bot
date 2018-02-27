@@ -1,52 +1,18 @@
 # line-bot
 
- 教你建立自己的 line-bot 使用 python flask 📝
- 
- line-bot-tutorial use python flask
+請先加入好友我的 QRCODE
 
-* [Youtube Demo Tutorial V1](https://youtu.be/EToFs-ysXKw)
-
-* [Youtube Demo V2](https://youtu.be/1IxtWgWxtlE)
-
-## 執行畫面
-
-請先加入好友
 ![alt tag](https://imgur.com/YJsx3M4.jpg)
-我的 QRCODE
-
-![alt tag](http://i.imgur.com/Kkpzt4p.jpg)
-
-或是手機直接點選 [https://line.me/R/ti/p/%40vbi2716y](https://line.me/R/ti/p/%40vbi2716y)
-
-![alt tag](http://i.imgur.com/oAgR5nr.jpg)
-
-認證記得請選 **同意**
-
-![alt tag](http://i.imgur.com/9LOlGHh.jpg)
 
 ### 功能
 
-***精選功能***
+***空汙***
 
-![alt tag](http://i.imgur.com/IB3hBl8.jpg)
+![alt tag](https://imgur.com/xgSPHA5.jpg)
 
-輸入任何文字即可開始玩
+#### bitcoin
 
-![alt tag](http://i.imgur.com/M30GJOU.jpg)
-
-***開始玩***
-
-![alt tag](http://i.imgur.com/PCcnc5R.jpg)
-
-***新聞***
-
-![alt tag](http://i.imgur.com/mc0R0xL.jpg)
-
-#### 蘋果即時新聞
-
- apple news 即時新聞 ( 來源 [http://www.appledaily.com.tw/realtimenews/section/new/](http://www.appledaily.com.tw/realtimenews/section/new/) )
-
-![alt tag](http://i.imgur.com/OpJj9DE.png)
+![alt tag](https://imgur.com/ZZbhWlP.jpg)
 
 #### 科技新報
 
