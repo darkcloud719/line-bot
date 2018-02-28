@@ -417,55 +417,17 @@ def handle_message(event):
         line_bot_api.reply_message(
             event.reply_token,image_message)
         return 0 
-    if event.message.text == "生日":
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text="淮7/19\n培根2/20\n阿呆12/19\n狗恩5/12\n瑋2/15\n花生4/18\n郭12/15"))
-        return 0
-    if event.message.text == "hihi":
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text="pretty woman~釣凱子"))
-        return 0
     if event.message.text == "你是誰":
         line_bot_api.reply_message(
             event.reply_token,
             TextSendMessage(text="chatbot聊天機器人"))
         return 0
-    if event.message.text == "賣?":
+    if event.message.text == "簡介":
+        content = 'chat bot 指令功能\n"空汙"->即時空氣品質\n"bitcoin"->即時比特幣價格\n"book暢銷"->博客來即時暢銷書單top20\n"book新書"->博客來新書書單top10\n"樂透"->樂透最新開獎號碼\n"最新電影"->最新已上映電影\n"bbc"->bbc熱門新聞top10\n"ptt"->ptt熱門文章\n"'
         line_bot_api.reply_message(
             event.reply_token,
-            TextSendMessage(text="玩玩她，不給錢就不算賣!"))
-        return 0
-    if event.message.text == "狗恩":
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text="臉換掉就完美了"))
-        return 0
-    if event.message.text == "hi":
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text="早上起來刷刷牙~"))
-        return 0
-    if event.message.text == "能不能繼續":
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text="對我哭 對我笑 對我好"))
-        return 0
-    if event.message.text == "繼續讓我":
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text="為你想 為你瘋 陪你老"))
-        return 0
-    if event.message.text == "給你的好":
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text="還要不要"))
-        return 0
-    if event.message.text == "答案":
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text="我卻不敢揭曉"))
+            TestSendMessage(text=content))
+    
 
 if __name__ == '__main__':
     app.run()
