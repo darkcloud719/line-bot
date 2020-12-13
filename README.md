@@ -1,4 +1,4 @@
-# line-bot
+# Side-Project 2 Line聊天機器人(line-bot)
 
 請先加入好友我的 QRCODE
 
